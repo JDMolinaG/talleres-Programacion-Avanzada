@@ -23,7 +23,7 @@ console.log(nombreAsignado(nave1))
 
 // ----------------------------------------------------------------------------------------------------
 
-// ejercicio 2
+// ejercicio 3
 
 let temperaturaMinima = 1
 let temperaturaMaxima = 20
